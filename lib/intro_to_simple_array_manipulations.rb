@@ -30,3 +30,20 @@ def using_insert(array, thing)
   array.insert(4, thing)
 end
 
+def using_uniq
+  
+end
+
+def using_flatten
+  
+end
+
+def using_delete
+  
+end
+
+def using_delete_at
+  
+end
+
+
